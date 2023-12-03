@@ -1,0 +1,6 @@
+markdownify==0.11.6
+black==22.10.0
+tqdm==4.64.1
+advent-of-code-data==1.2.3
+aocd==0.1
+numpy==1.23.5

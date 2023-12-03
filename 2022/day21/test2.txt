@@ -1,0 +1,13 @@
+root: aaaa + sjmn
+sjmn: 150
+cccc: 10
+aaaa: bbbb + cccc
+bbbb: dddd - cccc
+dddd: eeee * cccc
+eeee: ffff / cccc
+ffff: cccc + gggg
+gggg: cccc + iiii
+iiii: cccc - jjjj
+jjjj: cccc / hhhh
+hhhh: cccc * humn
+humn: 10
